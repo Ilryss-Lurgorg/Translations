@@ -29,7 +29,7 @@
   "lacChangepassArgs": "<nom d'utilisateur> <nouveau mot de passe>",
   "lacNotRegistered": "Aucun joueur avec ce nom a été inscrit!",
   "lacResetPlayer": "Compte du joueur réinitialisé avec succès!",
-  "lacChangedPassword": "Mot de passe du joeur changé avec succès!",
+  "lacChangedPassword": "Mot de passe du joueur changé avec succès!",
   "lacImport": "Importe d'une autre base de données",
   "lacImportArgs": "<source> [args]",
   "lacUnknownSource": "Type de base de données inconnue, veuillez visiter le wiki!",
